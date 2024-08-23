@@ -22,7 +22,7 @@ To set up this project locally, follow these steps:
 
 3. **Open the solution in Visual Studio:**
 
-    Open `Printing-Service-Management-System.sln` in Visual Studio.
+    Open `MasterCopy3.sln` in Visual Studio.
 
 4. **Restore NuGet packages:**
 
