@@ -11,18 +11,18 @@ To set up this project locally, follow these steps:
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/yourusername/MasterCopy3.git
+    git clone https://github.com/Viishnu07/Printing-Service-Management-System.git
     ```
 
 2. **Navigate to the project directory:**
 
     ```bash
-    cd MasterCopy3
+    cd Printing-Service-Management-System
     ```
 
 3. **Open the solution in Visual Studio:**
 
-    Open `MasterCopy3.sln` in Visual Studio.
+    Open `Printing-Service-Management-System.sln` in Visual Studio.
 
 4. **Restore NuGet packages:**
 
@@ -70,4 +70,4 @@ This project is licensed under the MIT License.
 
 ## Contact
 
-For any questions or feedback, please reach out at `your.email@example.com`.
+For any questions or feedback, please reach out at `viishnu_sreeganesh@yahoo.com`.
