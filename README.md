@@ -40,7 +40,7 @@ To set up this project locally, follow these steps:
 
 After setting up the project, you can run it by pressing `F5` or selecting `Debug` > `Start Debugging` from the menu. The application includes the following features:
 
-- **Login and User Management:** Secure login system with the ability to manage users.
+- **Login and User Management:**  Login system with the ability to manage users.
 - **Income Reporting:** View and generate reports on income data.
 - **Payment Processing:** Handle and process payments efficiently.
 - **Forms and Grids:** Various forms and data grids for administrative tasks.
